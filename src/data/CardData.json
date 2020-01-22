@@ -1,0 +1,263 @@
+[
+  {
+    "number": "NV1",
+    "forsaken": "false",
+    "restricted": "true",
+    "faction": "cursebreakers",
+    "type": "objective",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV2",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "objective",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV3",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "objective",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV4",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "objective",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV5",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "objective",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV6",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "objective",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV7",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "objective",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV8",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "objective",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV9",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "objective",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV10",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "ploy",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV11",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "ploy",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV12",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "ploy",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV13",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "ploy",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV14",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "ploy",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV15",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "ploy",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV16",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "ploy",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV17",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "ploy",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV18",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "ploy",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV19",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "ploy",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV20",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "upgrade",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV21",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "upgrade",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV22",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "upgrade",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV23",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "upgrade",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV24",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "upgrade",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV25",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "upgrade",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV26",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "upgrade",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV27",
+    "forsaken": "false",
+    "restricted": "false",
+    "faction": "cursebreakers",
+    "type": "upgrade",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV28",
+    "forsaken": "false",
+    "restricted": "true",
+    "faction": "cursebreakers",
+    "type": "upgrade",
+    "season": "nightvault",
+    "set": "core"
+  },
+  {
+    "number": "NV29",
+    "forsaken": "false",
+    "restricted": "true",
+    "faction": "cursebreakers",
+    "type": "upgrade",
+    "season": "nightvault",
+    "set": "core"
+  }
+]
